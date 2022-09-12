@@ -29,7 +29,7 @@ body {
 }
 
 body {
-	background: var(--color-background);
+	
 	color: var(--color-text);
 	height: 100vh;
 	width: 100vw;
@@ -39,7 +39,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-background: #f9f9f9;
+		/* --color-background: #f9f9f9; */
 		--color-text: #333;
 
 
